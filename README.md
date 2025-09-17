@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-red?style=flat&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/Database-SQL_Server-blue?style=flat&logo=sqlserver)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
-![Flutter](https://img.shields.io/badge/Database-Flutter-Informational?style=flat&logo=flutter&color=02569B)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-Informational?style=flat&logo=flutter&color=02569B)
 ![Firebase](https://img.shields.io/badge/Database-Firebase-Informational?style=flat&logo=firebase&color=DD2C00)
 
 # Welcome to My Github
