@@ -31,9 +31,7 @@ I'm a web developer with experience in cloud based techonolgies.
 
 ## Skills Portifolio
 
-<a href="https://github.com/bluebetto/Order-Microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluebetto&repo=Order-Microservices&theme=buefy" />
-</a>
+<a href="https://github.com/bluebetto/Order-Microservices">bluebetto/Order-Microservices</a>
 
 <!--
 **bluebetto/bluebetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
