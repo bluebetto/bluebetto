@@ -35,7 +35,7 @@ and Flutter for mobile development.
 # My Resume
 
 <a href="https://www.linkedin.com/in/roberto-goncalves/">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=64&id=13930&format=png"/> LinkedIn
+  <img width="18px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=64&id=13930&format=png"/> LinkedIn
 </a><br/>
 <a href="resume/Roberto_Goncalves_Carlos.pdf">🇧🇷 Português</a><br/>
 <a href="resume/Roberto_Goncalves_Carlos_en.pdf">🇺🇸 Inglês</a><br/>
