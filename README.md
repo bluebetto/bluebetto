@@ -21,13 +21,24 @@
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-Informational?style=flat&logo=flutter&color=02569B)
 ![Firebase](https://img.shields.io/badge/Database-Firebase-Informational?style=flat&logo=firebase&color=DD2C00)
 
-# Welcome to My Github
+# Welcome to My GitHub
 
-I'm a web developer with experience in cloud based techonolgies.
+I'm a web developer with experience in cloud based techonolgies including PHP, C# for
+backend. Relational Databases like MySQL, PostgreSQL and SQL Server. Non relational
+databases like MongoDb and Firebase Firestore.
+
+#### I'm currently learning
+
+Now I'm working on expand my technnical skills on front-end frameworks like ReactJs
+and Flutter for mobile development.
+
+# My Resume
 
 <a href="https://www.linkedin.com/in/roberto-goncalves/">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=64&id=13930&format=png"/>
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=64&id=13930&format=png"/> LinkedIn
 </a>
+<a href="resume/Roberto_Goncalves_Carlos.pdf">🇧🇷 Português</a>
+<a href="resume/Roberto_Goncalves_Carlos_en.pdf">🇺🇸 Inglês</a>
 
 ## Skills Portifolio
 
@@ -46,4 +57,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
