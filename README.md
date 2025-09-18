@@ -36,9 +36,9 @@ and Flutter for mobile development.
 
 <a href="https://www.linkedin.com/in/roberto-goncalves/">
   <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=64&id=13930&format=png"/> LinkedIn
-</a>
-<a href="resume/Roberto_Goncalves_Carlos.pdf">🇧🇷 Português</a>
-<a href="resume/Roberto_Goncalves_Carlos_en.pdf">🇺🇸 Inglês</a>
+</a><br/>
+<a href="resume/Roberto_Goncalves_Carlos.pdf">🇧🇷 Português</a><br/>
+<a href="resume/Roberto_Goncalves_Carlos_en.pdf">🇺🇸 Inglês</a><br/>
 
 ## Skills Portifolio
 
