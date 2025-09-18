@@ -1,5 +1,7 @@
 ### Hi there / Oi 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bluebetto)
+
 <div>
   <a href="https://github.com/bluebetto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluebetto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
